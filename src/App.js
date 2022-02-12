@@ -25,7 +25,8 @@ function App() {
         <aside>   
         <h2 align="left">Edvora</h2>
         <br />
-        <h6 align="left" >PRODUCT</h6> 
+        <h6 align="left" >Products</h6> 
+        <br />
         <h4 align="left">Product Name</h4>
         <hr></hr>  
         <div class="container scroll" id="style-3">
