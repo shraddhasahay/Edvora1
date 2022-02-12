@@ -1,9 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
 import dog from './dog.jpg';
-import Card from 'react-bootstrap/Card';
-import Button from 'react-bootstrap/Button';
-import 'bootstrap/dist/css/bootstrap.min.css';
 import cards from './Components/cards'
 import menu from './Components/menu'
 

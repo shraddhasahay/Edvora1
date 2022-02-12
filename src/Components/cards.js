@@ -1,5 +1,4 @@
-import Card from 'react-bootstrap/Card';
-import Button from 'react-bootstrap/Button';
+
 import 'bootstrap/dist/css/bootstrap.min.css';
 import dog from './dog.jpg';
 import './cards.css'
