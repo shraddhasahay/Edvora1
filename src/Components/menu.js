@@ -6,9 +6,9 @@ function menu() {
          <h4 align="left">Filters</h4>
          <hr></hr>
 <div class="vertical-menu" >
-  <a href="#">Products</a>  
-  <a href="#">State</a>
-  <a href="#">City</a>
+  <a href="App.js">Products</a>  
+  <a href="App.js">State</a>
+  <a href="App.js">City</a>
   
 </div>
 </div>
