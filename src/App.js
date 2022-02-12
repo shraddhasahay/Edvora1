@@ -1,6 +1,4 @@
-import logo from './logo.svg';
 import './App.css';
-import dog from './dog.jpg';
 import cards from './Components/cards'
 import menu from './Components/menu'
 
